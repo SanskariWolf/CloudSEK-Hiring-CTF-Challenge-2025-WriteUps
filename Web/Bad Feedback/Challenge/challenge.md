@@ -7,4 +7,4 @@ A company rolled out a shiny feedback form and insists their customers are compl
 Flag is in the root.
 http://15.206.47.5:5000
 
-<img src="../../../assets/Scripting_BadFeedback_01.png" />
+<img src="../../../assets/Web_BadFeedback_01.png" />
